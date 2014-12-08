@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<component name="org.nuxeo.training.bestbooks.BestBooksService" version="1.0">
+
+  <implementation class="org.nuxeo.training.bestbooks.BestBooksService" />
+
+  <service>
+      <provide interface="org.nuxeo.training.bestbooks.BestBooksService" />
+  </service>
+    
+</component>

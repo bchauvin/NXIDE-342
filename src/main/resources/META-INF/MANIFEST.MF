@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 1.0.qualifier
+Bundle-Name: bestbooks
+Bundle-ManifestVersion: 2
+Nuxeo-Component: OSGI-INF/extensions/org.nuxeo.training.bestbooks.HasU
+ serPermission.xml,OSGI-INF/extensions/org.nuxeo.training.bestbooks.Be
+ stBooksService.xml
+Bundle-SymbolicName: bestbooks
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
